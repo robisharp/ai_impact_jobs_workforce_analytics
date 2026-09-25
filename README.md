@@ -1,5 +1,8 @@
 # ai_impact_jobs_workforce_analytics
 AI Impact on Jobs &amp; Workforce Analytics Dashboard – An interactive Power BI dashboard analyzing AI adoption, salary changes, productivity, automation risk, employee demographics, and upskilling requirements across industries.
+# link
+https://public.tableau.com/app/profile/robisha.raj/viz/ai_job_impact_dashboard/Dashboard1?publish=yes
+
 # AI Impact on Jobs & Workforce Analytics
 <img width="1637" height="836" alt="new_ds_aijobs" src="https://github.com/user-attachments/assets/b7000f1d-399b-4398-b3f2-c00956ec6e5e" />
 
